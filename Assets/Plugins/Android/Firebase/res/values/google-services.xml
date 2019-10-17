@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://vxvmechahamster.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">913154015859</string>
+  <string name="google_storage_bucket" translatable="false">vxvmechahamster.appspot.com</string>
+  <string name="project_id" translatable="false">vxvmechahamster</string>
+  <string name="google_api_key" translatable="false">AIzaSyBKchl7bB5KS0fuzAIeT5fAE_0A6n3IO68</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBKchl7bB5KS0fuzAIeT5fAE_0A6n3IO68</string>
+  <string name="google_app_id" translatable="false">1:913154015859:android:76cfcfd0a5b7fccf</string>
+  <string name="default_web_client_id" translatable="false">913154015859-ohuhleecns8ohl8t9e996d23v7s418u6.apps.googleusercontent.com</string>
+</resources>

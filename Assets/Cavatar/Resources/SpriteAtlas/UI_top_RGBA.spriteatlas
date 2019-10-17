@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI_top_RGBA
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b9442b80a381d3442b48c06c1d50b402, type: 3}
+    totalSpriteSurfaceArea: 3572300
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3a4393107a8812a4593cef5dfc51b143, type: 3}
+  - {fileID: 21300000, guid: 1bf50c4055c42ac4aad9356253a9def3, type: 3}
+  - {fileID: 21300000, guid: 611c8f909b578e2458f5fb78e586ee43, type: 3}
+  - {fileID: 21300000, guid: 746281b08f43b1643916bbc11273ef56, type: 3}
+  - {fileID: 21300000, guid: 289025c0b7c498d4db0e908726a914e7, type: 3}
+  - {fileID: 21300000, guid: bc81cce0b0eaccb439156a50935bc4b2, type: 3}
+  - {fileID: 21300000, guid: 093e2fe06f8bf0a46b4204d7ec07bee9, type: 3}
+  - {fileID: 21300000, guid: 685af441a46660a4ea4382ae0b3adfa3, type: 3}
+  - {fileID: 21300000, guid: 85f6de62d34813e409dd223cd8805bcc, type: 3}
+  - {fileID: 21300000, guid: bc74f3f226a3ce24c93c28edfe42b2ed, type: 3}
+  - {fileID: 21300000, guid: 9a15459373d647342bacd67655f8bccc, type: 3}
+  - {fileID: 21300000, guid: 543aa9e3955f5c7459ef5328d33a43e4, type: 3}
+  - {fileID: 21300000, guid: 8d6ccc945cd9c144a9319a088dfbcc0c, type: 3}
+  - {fileID: 21300000, guid: 2d0bb606157602941a4b57f46a22a070, type: 3}
+  - {fileID: 21300000, guid: 75a893a630c8747888e2056c03224fd7, type: 3}
+  - {fileID: 21300000, guid: 4c8c93f69c8105c41b7b45b2910a5960, type: 3}
+  - {fileID: 21300000, guid: 917f31271fa1a374f93d27c0d0208a3d, type: 3}
+  - {fileID: 21300000, guid: 6a0329670def3124c8db75ca4e5fba22, type: 3}
+  - {fileID: 21300000, guid: fa38c3b71ca112c449e8d1fd55fe790f, type: 3}
+  - {fileID: 21300000, guid: 7ffcb2d7da95e7548b9a18d03c8ab5a2, type: 3}
+  - {fileID: 21300000, guid: a95bf9f73bdd9754e96504868545c5d4, type: 3}
+  - {fileID: 21300000, guid: ef86a428baf40b246991d20bb4e18872, type: 3}
+  - {fileID: 21300000, guid: 232faf88a243925419a82ea64fb60e33, type: 3}
+  - {fileID: 21300000, guid: 6ee49bb852cc07540960508fad1687cb, type: 3}
+  - {fileID: 21300000, guid: 5759a529632324e499d4f4a2c8ff1c8e, type: 3}
+  - {fileID: 21300000, guid: f3f6d929c3e173a4abd2c5a653453021, type: 3}
+  - {fileID: 21300000, guid: a8e552598828e1a40ad0d1225c2771f6, type: 3}
+  - {fileID: 21300000, guid: f9dbd7a91d9d8da468de8e27f7b657ec, type: 3}
+  - {fileID: 21300000, guid: aa5c6fb91ca10ab4c829b40beadd9f8c, type: 3}
+  - {fileID: 21300000, guid: 0ad3891a424ed0b439b323ea71a3702d, type: 3}
+  - {fileID: 21300000, guid: eb9b9b4a969833f449c33c5354f00a54, type: 3}
+  - {fileID: 21300000, guid: 64401baa6c5b97948bda0984e8c02343, type: 3}
+  - {fileID: 21300000, guid: 120dbaca43655cf45a76a5b20131d64c, type: 3}
+  - {fileID: 21300000, guid: 3d66170bc95d5a14ab1cc31fee85792f, type: 3}
+  - {fileID: 21300000, guid: 7b88a53b82d44094ab374a0b0605c095, type: 3}
+  - {fileID: 21300000, guid: 3a88448bfd6bc514f8b01a34ebdebded, type: 3}
+  - {fileID: 21300000, guid: a08fc4fb8f2fc7f4a99c549c933d7ed7, type: 3}
+  - {fileID: 21300000, guid: 4f73884c1834dd64bafd1cc5d9766976, type: 3}
+  - {fileID: 21300000, guid: 77b4a45c128ca564a8f229bd6ac083d2, type: 3}
+  - {fileID: 21300000, guid: 4d3a459c6d7acf643b85504bcf5621f6, type: 3}
+  - {fileID: 21300000, guid: 64245fdcc84015a4da55b23e6651b6f6, type: 3}
+  - {fileID: 21300000, guid: 40e3655de43e5f74b8d3dd4d553d4162, type: 3}
+  - {fileID: 21300000, guid: 584afd7d85a702c4a983e7827618b25d, type: 3}
+  - {fileID: 21300000, guid: 7d60f2edf33a85747bfccb7072a5c575, type: 3}
+  - {fileID: 21300000, guid: b4e8682ec53a93849841ce756ca7aadb, type: 3}
+  - {fileID: 21300000, guid: 1219bcbeed555aa45857a34aac75ad20, type: 3}
+  - {fileID: 21300000, guid: 40edfbdef13f5a74eb6a41f85130e7d7, type: 3}
+  - {fileID: 21300000, guid: 3d5b6cef57fbe04409d9ddf9ffedf837, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Config
+  - "\u30D7\u30E9\u30B9\u306E\u30A2\u30A4\u30B3\u30F3\u7D20\u6750"
+  - MoviePlayButton2
+  - kyaP
+  - "\u623B\u308B"
+  - new
+  - "\u30DC\u30FC\u30A4\u3055\u3093\u306B\u6E21\u3059"
+  - "\u30B0\u30EB\u30FC\u30D7 4"
+  - "\u30B0\u30EB\u30FC\u30D7 11"
+  - "\u89D2\u4E38\u9577\u65B9\u5F62 4"
+  - "\u6955\u5186\u5F62 5"
+  - "\u30B0\u30EB\u30FC\u30D7 12"
+  - "\u30BF\u30A4\u30C8\u30EB"
+  - item
+  - white32x32
+  - "\u8A2D\u5B9A\u30A2\u30A4\u30B3\u30F3"
+  - "\u5730\u7403\u30A2\u30A4\u30B3\u30F312"
+  - Contact
+  - "\u77E2\u5370\u30A2\u30A4\u30B3\u30F3\u3000\u53F31 (1)"
+  - "\u30D5\u30C3\u30BF\u30FC"
+  - "\u3067\u3063\u3077\u308A\u30CF\u30FC\u30C8\u30A2\u30A4\u30B3\u30F3"
+  - "\u30E9\u30F3\u30AD\u30F3\u30B0"
+  - Hert
+  - "\u738B\u51A0"
+  - customer
+  - "\u2776"
+  - Decision
+  - "\u30D8\u30C3\u30C0\u30FC"
+  - Star
+  - Ranking
+  - "\u30B2\u30FC\u30E0\u30B9\u30BF\u30FC\u30C8"
+  - Cast-add
+  - "\u89D2\u4E38\u9577\u65B9\u5F62 6"
+  - "\u9AEA\u578B\u30A2\u30A4\u30B3\u30F3"
+  - "\u7740\u305B\u66FF\u3048"
+  - AR
+  - "\u89D2\u4E38\u9577\u65B9\u5F62 2"
+  - camera
+  - "\u5439\u304D\u51FA\u3057\u306E\u30A2\u30A4\u30B3\u30F313"
+  - "\u30AD\u30E3\u30E9\u30AF\u30BF\u30FC"
+  - "\u6955\u5186\u5F62 2"
+  - "\u30DE\u30A4\u30DA\u30FC\u30B8"
+  - booster
+  - Cancel
+  - "\u89D2\u4E38\u9577\u65B9\u5F62 1"
+  - Change
+  - "\u6955\u5186\u5F62 1"
+  - profile
+  m_Tag: UI_top_RGBA
+  m_IsVariant: 0

@@ -1,0 +1,33 @@
+﻿Cavatarメモ
+
+・Customerのログイン時に押しがいないと、表示できない。
+　ログインQRに押しキャストのIDを含めるべき。
+
+
+　
+・ローカルのセーブデータの削除方法
+　Unityメニューの Edit → Clear All PlayerPrefs
+　で、削除可能。
+
+・Cast(Ogin)でログイン方法
+　・ユーザーデータを削除
+　・Titleでログインボタンから、QR読み込み画面に進みます。
+　（QR読み込みはThreadが終了しないバグあり。）
+　・左上のデバグメニューから下記を選択。
+　　DM → LoginManager → decoded QRCode "Ogin"
+　・自動的にLogo→Titleと進み、ゲームスタートできるようになる。
+
+・Shop(ShopA)でログイン方法
+　・ユーザーデータを削除
+　・Titleでログインボタンから、QR読み込み画面に進みます。
+　（QR読み込みはThreadが終了しないバグあり。）
+　・左上のデバグメニューから下記を選択。
+　　DM → LoginManager → decoded QRCode "ShopA"
+　・自動的にLogo→Titleと進み、ゲームスタートできるようになる。
+　
+・その他、UIの確認方法
+　・CavatarParam.csの先頭の下記の行を有効にする.
+　　#define EMU
+　・ユーザーデータが埋まり、UIを表示するようになる。
+
+
