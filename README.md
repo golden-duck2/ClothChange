@@ -1,3 +1,3 @@
 # ClothChange
 
-![result](https://github.com/golden-duck2/VertexRain/blob/master/VertexRain.gif?raw=true)
+![result](https://github.com/golden-duck2/ClothChange/blob/master/avater.gif?raw=true)
